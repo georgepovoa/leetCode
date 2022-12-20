@@ -1,0 +1,5 @@
+Success
+Details
+Runtime: 31 ms, faster than 96.42% of Python3 online submissions for Plus One.
+Memory Usage: 13.9 MB, less than 59.57% of Python3 online submissions for Plus One.
+Next challenges: 

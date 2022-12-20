@@ -1,0 +1,9 @@
+time : 7:20 - 7:31
+
+help - https://blog.devgenius.io/leetcode-21-merge-two-sorted-lists-f290ef5d21e9
+
+Success
+Details
+Runtime: 73 ms, faster than 48.25% of Python3 online submissions for Merge Two Sorted Lists.
+Memory Usage: 13.9 MB, less than 33.31% of Python3 online submissions for Merge Two Sorted Lists.
+Next challenges: 

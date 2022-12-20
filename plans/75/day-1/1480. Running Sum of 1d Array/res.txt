@@ -1,0 +1,6 @@
+start-time  = 12:26 - 12:30 
+
+Success
+Details
+Runtime: 81 ms, faster than 45.09% of Python3 online submissions for Running Sum of 1d Array.
+Memory Usage: 14.2 MB, less than 28.08% of Python3 online submissions for Running Sum of 1d Array.

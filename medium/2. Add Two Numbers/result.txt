@@ -1,0 +1,15 @@
+Success
+Details
+Runtime: 177 ms, faster than 9.07% of Python3 online submissions for Add Two Numbers.
+Memory Usage: 13.9 MB, less than 86.65% of Python3 online submissions for Add Two Numbers.
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/04/2022 21:33	Accepted	177 ms	13.9 MB	python3
+12/04/2022 21:31	Accepted	104 ms	14 MB	python3
+12/04/2022 21:28	Runtime Error	N/A	N/A	python3

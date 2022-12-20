@@ -1,0 +1,20 @@
+time : 10:04  - 10:48
+
+Success
+Details
+Runtime: 2907 ms, faster than 22.37% of Python3 online submissions for Best Time to Buy and Sell Stock.
+Memory Usage: 25 MB, less than 86.65% of Python3 online submissions for Best Time to Buy and Sell Stock.
+
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/04/2022 10:47	Accepted	2907 ms	25 MB	python3
+12/04/2022 10:26	Time Limit Exceeded	N/A	N/A	python3
+12/04/2022 10:12	Time Limit Exceeded	N/A	N/A	python3
+            
+                

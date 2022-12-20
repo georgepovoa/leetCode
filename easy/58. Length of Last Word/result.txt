@@ -1,0 +1,21 @@
+time : 16:59 - 17:03
+
+Success
+Details
+Runtime: 64 ms, faster than 17.64% of Python3 online submissions for Length of Last Word.
+Memory Usage: 14 MB, less than 39.44% of Python3 online submissions for Length of Last Word.
+Next challenges:
+Excel Sheet Column Title
+Greatest Common Divisor of Strings
+Find the K-Beauty of a Number
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/03/2022 17:03	Accepted	64 ms	14 MB	python3

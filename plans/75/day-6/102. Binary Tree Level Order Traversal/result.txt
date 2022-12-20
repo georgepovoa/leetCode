@@ -1,0 +1,19 @@
+Success
+Details
+Runtime: 65 ms, faster than 54.71% of Python3 online submissions for Binary Tree Level Order Traversal.
+Memory Usage: 15 MB, less than 9.27% of Python3 online submissions for Binary Tree Level Order Traversal.
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/05/2022 09:41	Accepted	65 ms	15 MB	python3
+12/05/2022 09:39	Runtime Error	N/A	N/A	python3
+12/05/2022 09:39	Runtime Error	N/A	N/A	python3
+12/05/2022 09:39	Runtime Error	N/A	N/A	python3
+12/05/2022 09:38	Wrong Answer	N/A	N/A	python3

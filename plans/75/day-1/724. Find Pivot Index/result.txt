@@ -1,0 +1,6 @@
+time = 12:31 - 12:39
+
+Success
+Details
+Runtime: 9970 ms, faster than 5.01% of Python3 online submissions for Find Pivot Index.
+Memory Usage: 15.1 MB, less than 92.50% of Python3 online submissions for Find Pivot Index.

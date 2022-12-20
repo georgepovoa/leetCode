@@ -1,0 +1,26 @@
+tryied a bunch on mobile.
+
+Success
+Details
+Runtime: 69 ms, faster than 30.07% of Python3 online submissions for Longest Palindrome.
+Memory Usage: 13.9 MB, less than 67.15% of Python3 online submissions for Longest Palindrome.
+Next challenges:
+Palindrome Permutation
+Longest Palindrome by Concatenating Two Letter Words
+Largest Palindromic Number
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/04/2022 19:09	Accepted	69 ms	13.9 MB	python3
+12/04/2022 19:05	Wrong Answer	N/A	N/A	python3
+12/04/2022 13:29	Wrong Answer	N/A	N/A	python3
+12/04/2022 13:16	Wrong Answer	N/A	N/A	python3
+12/04/2022 13:15	Wrong Answer	N/A	N/A	python3
+12/04/2022 11:25	Wrong Answer	N/A	N/A	python3

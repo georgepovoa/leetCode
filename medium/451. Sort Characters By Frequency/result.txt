@@ -1,0 +1,8 @@
+time : 08:13 - 08:21
+
+
+Success
+Details
+Runtime: 62 ms, faster than 81.31% of Python3 online submissions for Sort Characters By Frequency.
+Memory Usage: 15.3 MB, less than 81.15% of Python3 online submissions for Sort Characters By Frequency.
+Next challenges: 

@@ -1,0 +1,18 @@
+Success
+Details
+Runtime: 187 ms, faster than 63.29% of Python3 online submissions for Median of Two Sorted Arrays.
+Memory Usage: 14.1 MB, less than 67.77% of Python3 online submissions for Median of Two Sorted Arrays.
+Next challenges:
+Median of a Row Wise Sorted Matrix
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/05/2022 09:53	Accepted	187 ms	14.1 MB	python3
+12/05/2022 09:52	Runtime Error	N/A	N/A	python3

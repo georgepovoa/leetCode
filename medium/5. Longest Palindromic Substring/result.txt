@@ -1,0 +1,8 @@
+time: 11:51 - XXXX
+
+
+Success
+Details
+Runtime: 1803 ms, faster than 52.19% of Python3 online submissions for Longest Palindromic Substring.
+Memory Usage: 13.9 MB, less than 59.45% of Python3 online submissions for Longest Palindromic Substring.
+Next challenges: 

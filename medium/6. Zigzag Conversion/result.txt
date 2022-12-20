@@ -1,0 +1,13 @@
+Success
+Details
+Runtime: 137 ms, faster than 47.40% of Python3 online submissions for Zigzag Conversion.
+Memory Usage: 14.1 MB, less than 53.18% of Python3 online submissions for Zigzag Conversion.
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/05/2022 10:24	Accepted	137 ms	14.1 MB	python3
+12/05/2022 10:23	Wrong Answer	N/A	N/A	python3

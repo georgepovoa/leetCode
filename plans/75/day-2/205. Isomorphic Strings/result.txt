@@ -1,0 +1,8 @@
+time : 07:04 - 7:26
+
+
+Success
+Details
+Runtime: 130 ms, faster than 9.77% of Python3 online submissions for Isomorphic Strings.
+Memory Usage: 16.8 MB, less than 5.06% of Python3 online submissions for Isomorphic Strings.
+Next challenges:

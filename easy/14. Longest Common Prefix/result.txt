@@ -1,0 +1,24 @@
+time : 17:06 - days
+
+Success
+Details
+Runtime: 68 ms, faster than 47.66% of Python3 online submissions for Longest Common Prefix.
+Memory Usage: 13.9 MB, less than 88.32% of Python3 online submissions for Longest Common Prefix.
+Next challenges:
+Repeated DNA Sequences
+Find Substring With Given Hash Value
+Strong Password Checker II
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/04/2022 19:32	Accepted	68 ms	13.9 MB	python3
+12/04/2022 19:31	Runtime Error	N/A	N/A	python3
+12/01/2022 17:37	Wrong Answer	N/A	N/A	python3
+12/01/2022 17:36	Runtime Error	N/A	N/A	python3

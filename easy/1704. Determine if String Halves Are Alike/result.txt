@@ -1,0 +1,7 @@
+time : 08:03 - 08:10
+
+Success
+Details
+Runtime: 45 ms, faster than 80.65% of Python3 online submissions for Determine if String Halves Are Alike.
+Memory Usage: 13.8 MB, less than 77.72% of Python3 online submissions for Determine if String Halves Are Alike.
+Next challenges: 

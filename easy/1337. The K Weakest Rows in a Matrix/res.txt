@@ -1,0 +1,6 @@
+res-time : 11:00 - 11:11
+
+Success
+Details
+Runtime: 289 ms, faster than 23.18% of Python3 online submissions for The K Weakest Rows in a Matrix.
+Memory Usage: 14.2 MB, less than 88.03% of Python3 online submissions for The K Weakest Rows in a Matrix.

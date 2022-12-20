@@ -1,0 +1,4 @@
+Success
+Details
+Runtime: 135 ms, faster than 37.47% of Python3 online submissions for Ransom Note.
+Memory Usage: 14.5 MB, less than 5.92% of Python3 online submissions for Ransom Note.

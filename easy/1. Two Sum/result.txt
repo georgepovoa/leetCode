@@ -1,0 +1,6 @@
+time : 08:12 - 08:25
+
+Success
+Details
+Runtime: 9051 ms, faster than 5.00% of Python3 online submissions for Two Sum.
+Memory Usage: 14.9 MB, less than 96.12% of Python3 online submissions for Two Sum.

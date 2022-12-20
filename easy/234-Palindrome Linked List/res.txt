@@ -1,0 +1,2 @@
+Runtime: 2472 ms, faster than 6.80% of Python3 online submissions for Palindrome Linked List.
+Memory Usage: 46.9 MB, less than 29.96% of Python3 online submissions for Palindrome Linked List.

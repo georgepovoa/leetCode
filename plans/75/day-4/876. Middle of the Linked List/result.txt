@@ -1,0 +1,5 @@
+Success
+Details
+Runtime: 30 ms, faster than 95.38% of Python3 online submissions for Middle of the Linked List.
+Memory Usage: 13.9 MB, less than 55.99% of Python3 online submissions for Middle of the Linked List.
+Next challenges: 

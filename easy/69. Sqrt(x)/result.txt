@@ -1,0 +1,4 @@
+Success
+Details
+Runtime: 1474 ms, faster than 22.84% of Python3 online submissions for Sqrt(x).
+Memory Usage: 13.9 MB, less than 11.18% of Python3 online submissions for Sqrt(x).

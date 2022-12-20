@@ -1,0 +1,21 @@
+time : 16:40 - 16:45
+
+Success
+Details
+Runtime: 117 ms, faster than 19.11% of Python3 online submissions for Search Insert Position.
+Memory Usage: 14.8 MB, less than 5.99% of Python3 online submissions for Search Insert Position.
+Next challenges:
+First Bad Version
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/03/2022 16:45	Accepted	117 ms	14.8 MB	python3
+12/03/2022 16:45	Wrong Answer	N/A	N/A	python3
+12/03/2022 16:44	Wrong Answer	N/A	N/A	python3

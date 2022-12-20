@@ -1,0 +1,7 @@
+time : 17:01 - 17:04
+
+Success
+Details
+Runtime: 52 ms, faster than 98.57% of Python3 online submissions for Palindrome Number.
+Memory Usage: 14 MB, less than 16.36% of Python3 online submissions for Palindrome Number.
+Next challenges: 

@@ -1,0 +1,7 @@
+time : 7:28 - 7:55
+
+Success
+Details
+Runtime: 70 ms, faster than 24.26% of Python3 online submissions for Is Subsequence.
+Memory Usage: 14 MB, less than 41.89% of Python3 online submissions for Is Subsequence.
+Next challenges: 

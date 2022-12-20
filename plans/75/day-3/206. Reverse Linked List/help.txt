@@ -1,0 +1,63 @@
+https://www.geeksforgeeks.org/python-program-for-reverse-a-linked-list/
+,
+
+
+
+
+antigo -current  ListNode{val: 1, next: ListNode{val: 2, next: ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}}}
+
+antigo - prev  None
+
+next ListNode{val: 2, next: ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}}
+
+current.next  None
+
+novo - prev  ListNode{val: 1, next: None}
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+antigo -current  ListNode{val: 2, next: ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}}
+
+antigo - prev  ListNode{val: 1, next: None}
+
+next ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}
+
+current.next  ListNode{val: 1, next: None}
+
+novo - prev  ListNode{val: 2, next: ListNode{val: 1, next: None}}
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+antigo -current  ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}
+
+antigo - prev  ListNode{val: 2, next: ListNode{val: 1, next: None}}
+
+next ListNode{val: 4, next: ListNode{val: 5, next: None}}
+
+current.next  ListNode{val: 2, next: ListNode{val: 1, next: None}}
+
+novo - prev  ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+antigo -current  ListNode{val: 4, next: ListNode{val: 5, next: None}}
+
+antigo - prev  ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}
+
+next ListNode{val: 5, next: None}
+
+current.next  ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}
+
+novo - prev  ListNode{val: 4, next: ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}}
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+antigo -current  ListNode{val: 5, next: None}
+
+antigo - prev  ListNode{val: 4, next: ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}}
+
+next None
+
+current.next  ListNode{val: 4, next: ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}}
+
+novo - prev  ListNode{val: 5, next: ListNode{val: 4, next: ListNode{val: 3, next: ListNode{val: 2, next: ListNode{val: 1, next: None}}}}}

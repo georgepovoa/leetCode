@@ -1,0 +1,23 @@
+time : 08:57 - 09:58
+
+Success
+Details
+Runtime: 2330 ms, faster than 60.82% of Python3 online submissions for Minimum Average Difference.
+Memory Usage: 24.9 MB, less than 56.92% of Python3 online submissions for Minimum Average Difference.
+Next challenges:
+Split Array With Same Average
+Number of Ways to Split Array
+Show off your acceptance:
+Time Submitted
+	
+Status
+	
+Runtime
+	
+Memory
+	
+Language
+12/04/2022 09:58	Accepted	2330 ms	24.9 MB	python3
+12/04/2022 09:34	Time Limit Exceeded	N/A	N/A	python3
+12/04/2022 09:17	Wrong Answer	N/A	N/A	python3
+12/04/2022 09:16	Wrong Answer	N/A	N/A	python3

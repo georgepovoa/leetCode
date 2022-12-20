@@ -1,0 +1,6 @@
+res-time : 11:21 - 11:23
+
+Success
+Details
+Runtime: 123 ms, faster than 32.15% of Python3 online submissions for Richest Customer Wealth.
+Memory Usage: 14 MB, less than 32.88% of Python3 online submissions for Richest Customer Wealth.

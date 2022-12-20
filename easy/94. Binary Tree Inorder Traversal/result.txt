@@ -1,0 +1,5 @@
+
+Success
+Details
+Runtime: 75 ms, faster than 5.35% of Python3 online submissions for Binary Tree Inorder Traversal.
+Memory Usage: 14 MB, less than 13.77% of Python3 online submissions for Binary Tree Inorder Traversal.
